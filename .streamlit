@@ -1,2 +1,3 @@
 create a .streamlit folder and then make secrets.toml file in it 
+and enter the details as mentioned in secrets.toml file using notepad
 
